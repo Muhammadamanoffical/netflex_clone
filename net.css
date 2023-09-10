@@ -1,0 +1,30 @@
+body{
+    background-image: url(./netflex.jpg);
+}
+.logo
+{
+    display: flex ;
+    justify-content: end;
+    justify-content: space-between;
+   
+}
+button{
+    color: red;
+    background-color: black;
+border: none;
+}
+.p1
+{
+    color: whitesmoke;
+}
+.p2
+{
+    color: whitesmoke;
+}
+.p3
+{
+    color: whitesmoke;
+}
+     .bio{
+        padding-top: 10%;
+     }
